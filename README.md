@@ -21,7 +21,7 @@ This project focuses on cleaning, transforming, and analyzing sales data from 20
 •	Revenue by Country: Which countries generate the most revenue?
 
 - Dashboard Interaction
-- <a href = ""
+- <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20Dashboard.png"> View Dashboard </a>
 
 ## Processes Used
 •	Imported the sales dataset into Excel using Power Query.
