@@ -20,8 +20,8 @@ This project focuses on cleaning, transforming, and analyzing sales data from 20
 •	Order Volume: How many orders are processed in a given period?
 •	Revenue by Country: Which countries generate the most revenue?
 
-- Dashboard Interaction
-- <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20Dashboard.png"> View Dashboard </a>
+- Dashboard Interaction <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20Dashboard.png"> View Dashboard Overview </a>
+- Dashboard Interaction 2 <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20dashboard2.png"> View Sales Performance Daashboard </a>
 
 ## Processes Used
 •	Imported the sales dataset into Excel using Power Query.
