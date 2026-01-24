@@ -7,21 +7,21 @@ This project focuses on cleaning, transforming, and analyzing sales data from 20
 - <a href ="https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/online_sales_dataset.csv"> Dataset</a>
 
 ## Questions Generated from the Dataset(KPIs)
-•	What is the total revenue generated?
-•	What is the total Quantity of Product Sold?
-•	How much are the total sales before discounts?
-•	What is the Total Customer over the years?
-•	Top-Selling Products: Which products have the highest sales volume or revenue?
-•	Monthly Sales Trend: Which month have the highest revenue?
-•	Category Performance: Which product categories generate the most revenue?
-•	Payment Method Usage: Which payment methods are most popular?
-•	Warehouse Performance: Which warehouse locations generated the most revenue?
-•	Warehouse Efficiency: Which warehouse locations handle the most orders?
-•	Order Volume: How many orders are processed in a given period?
-•	Revenue by Country: Which countries generate the most revenue?
+- What is the total revenue generated?
+- What is the total Quantity of Product Sold?
+- How much are the total sales before discounts?
+- What is the Total Customer over the years?
+- Top-Selling Products: Which products have the highest sales volume or revenue?
+- Monthly Sales Trend: Which month have the highest revenue?
+- Category Performance: Which product categories generate the most revenue?
+- Payment Method Usage: Which payment methods are most popular?
+- Warehouse Performance: Which warehouse locations generated the most revenue?
+- Warehouse Efficiency: Which warehouse locations handle the most orders?
+- Order Volume: How many orders are processed in a given period?
+- Revenue by Country: Which countries generate the most revenue?
 
-- Dashboard Interaction <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20Dashboard.png"> View Dashboard Overview </a>
-- Dashboard Interaction 2 <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20dashboard2.png"> View Sales Performance Daashboard </a>
+- Dashboard<a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20Dashboard.png"> View Dashboard Overview </a>
+- Dashboard 2 <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20dashboard2.png"> View Sales Performance Daashboard </a>
 
 ## Processes Used
 •	Imported the sales dataset into Excel using Power Query.
