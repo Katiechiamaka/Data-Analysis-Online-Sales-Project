@@ -24,16 +24,20 @@ This project focuses on cleaning, transforming, and analyzing sales data from 20
 - Dashboard 2 <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20dashboard2.png"> View Sales Performance Daashboard </a>
 
 ## Processes Used
-•	Imported the sales dataset into Excel using Power Query.
-•	Cleaned the data by removing missing and invalid records.
-•	Assigned correct data types to all columns.
-•	Cleaned text fields by removing extra spaces and unwanted characters.
-•	Corrected spelling errors using the Replace Values feature.
-•	Created calculated columns for Gross Sales, Revenue, and Profit.
-•	Validated data accuracy by comparing row and column counts before and after cleaning.
-•	Loaded the cleaned and transformed data into Excel for analysis.
-•	Built Pivot Tables to summarize sales performance and key metrics.
-•	Used Slicers to enable interactive filtering by Year, Returned Status, and Sales Channel.
+- Imported the sales dataset into Excel using Power Query.
+- Cleaned the data by removing missing and invalid records.
+- Assigned correct data types to all columns.
+- Cleaned text fields by removing extra spaces and unwanted characters.
+- Corrected spelling errors using the Replace Values feature.
+- Created calculated columns for Gross Sales, Revenue, and Profit.
+- Validated data accuracy by comparing row and column counts before and after cleaning.
+- Loaded the cleaned and transformed data into Excel for analysis.
+- Built Pivot Tables to summarize sales performance and key metrics.
+- Used Slicers to enable interactive filtering by Year, Returned Status, and Sales Channel.
+
+## DashBoard
+<img width="1333" height="639" alt="Online sales project Dashboard" src="https://github.com/user-attachments/assets/8319a1cc-ec6e-4009-8bc7-4efb8235dc1e" />
+<img width="1205" height="585" alt="Online sales project dashboard2" src="https://github.com/user-attachments/assets/4bb45a4a-9005-44f8-86f6-674de1d65cea" />
 
 
 
