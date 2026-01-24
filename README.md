@@ -5,3 +5,35 @@ This project focuses on cleaning, transforming, and analyzing sales data from 20
 
 ## Dataset Used
 - <a href ="https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/online_sales_dataset.csv"> Dataset</a>
+
+## Questions Generated from the Dataset(KPIs)
+•	What is the total revenue generated?
+•	What is the total Quantity of Product Sold?
+•	How much are the total sales before discounts?
+•	What is the Total Customer over the years?
+•	Top-Selling Products: Which products have the highest sales volume or revenue?
+•	Monthly Sales Trend: Which month have the highest revenue?
+•	Category Performance: Which product categories generate the most revenue?
+•	Payment Method Usage: Which payment methods are most popular?
+•	Warehouse Performance: Which warehouse locations generated the most revenue?
+•	Warehouse Efficiency: Which warehouse locations handle the most orders?
+•	Order Volume: How many orders are processed in a given period?
+•	Revenue by Country: Which countries generate the most revenue?
+
+- Dashboard Interaction
+- <a href = ""
+
+## Processes Used
+•	Imported the sales dataset into Excel using Power Query.
+•	Cleaned the data by removing missing and invalid records.
+•	Assigned correct data types to all columns.
+•	Cleaned text fields by removing extra spaces and unwanted characters.
+•	Corrected spelling errors using the Replace Values feature.
+•	Created calculated columns for Gross Sales, Revenue, and Profit.
+•	Validated data accuracy by comparing row and column counts before and after cleaning.
+•	Loaded the cleaned and transformed data into Excel for analysis.
+•	Built Pivot Tables to summarize sales performance and key metrics.
+•	Used Slicers to enable interactive filtering by Year, Returned Status, and Sales Channel.
+
+
+
