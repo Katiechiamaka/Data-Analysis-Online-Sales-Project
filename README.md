@@ -39,5 +39,10 @@ This project focuses on cleaning, transforming, and analyzing sales data from 20
 <img width="1333" height="639" alt="Online sales project Dashboard" src="https://github.com/user-attachments/assets/8319a1cc-ec6e-4009-8bc7-4efb8235dc1e" />
 <img width="1205" height="585" alt="Online sales project dashboard2" src="https://github.com/user-attachments/assets/4bb45a4a-9005-44f8-86f6-674de1d65cea" />
 
+## Project Insight 
+<img width="779" height="643" alt="Online sales project key insight" src="https://github.com/user-attachments/assets/997e27a0-53bc-4a3c-8f8e-272c32fec73e" />
+
+# Final Conclusion
+Overall, the business delivered strong and stable revenue performance $42.32M despite a slight decline in sales volume toward the end of each year. This indicates a successful shift toward higher-value products, led by Furniture and Electronics, and supported by strong online demand. However, performance gaps across certain categories and warehouses reveal operational and pricing inefficiencies that are limiting growth. By doubling down on high-performing categories and locations while fixing underperforming areas through better pricing, inventory management, and targeted marketing, the business is well-positioned to sustain revenue stability and unlock incremental growth.
 
 
