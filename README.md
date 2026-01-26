@@ -1,6 +1,7 @@
 # Online Sales Analysis (Interactive Dashboard creation using MS Excel)
 
-![images (6)](https://github.com/user-attachments/assets/1f5d6286-3810-40c1-9195-ccec6fd51580)
+<img width="600" height="639" alt= "Online sales project Dashboard" src="https://github.com/user-attachments/assets/f2bcac02-3d90-461f-a4f8-d97354397d4c"/>
+
 
 ## Project Objective
 This project focuses on cleaning, transforming, and analyzing sales data from 2020 to 2025 using Excel Power Query to ensure accuracy and consistency across multiple years. Standardized data formats and calculated metrics such as Gross Sales, Revenue, and Profit are used to identify year-over-year trends, evaluate sales performance over time, and support strategic, data-driven business decisions.
