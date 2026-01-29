@@ -8,16 +8,23 @@ This project focuses on analyzing online retail sales transactions from 2020 to 
 
 
 ## Project Objectives
--Identify sales trends across regions, products, and time
+- Analyze sales trends across regions, products, and time periods
 
--Detect top-performing products and underperforming areas
+- Identify top-performing products and areas requiring improvement
 
--Create effective visualizations and dashboards
+- Develop clear, insightful visualizations and interactive dashboards
 
--Communicate findings with clarity, accuracy, and business relevance
+- Communicate findings and business relevance
 
 ## Dataset Used
 - <a href ="https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/online_sales_dataset.csv"> Dataset</a>
+
+## Tools Used
+- Microsoft Excel
+
+- Power Query (data cleaning & transformation)
+
+- Pivot Tables & Pivot Charts
 
 ## Questions Generated from the Dataset(KPIs)
 - What is the total revenue generated?
@@ -36,13 +43,19 @@ This project focuses on analyzing online retail sales transactions from 2020 to 
 - Dashboard<a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20Dashboard.png"> View Dashboard Overview </a>
 - Dashboard 2 <a href = "https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/Online%20sales%20project%20dashboard2.png"> View Sales Performance Daashboard </a>
 
-## Processes Used
+## Dataset Overview and Preparation
+-The original dataset had 17 columns and 4,9783 rows
+
+-Some key columns include InvoiceNo, Quantity, InvoiceDate ,UnitPrice, Shippingcost e.t.c.
+
+# Processes Used
 - Imported the sales dataset into Excel using Power Query.
 - Cleaned the data by removing missing and invalid records.
 - Assigned correct data types to all columns.
 - Cleaned text fields by removing extra spaces and unwanted characters.
-- Corrected spelling errors using the Replace Values feature.
+- Corrected spelling errors like “paypall” to “PayPal” using the Replace Values feature.
 - Created calculated columns for Gross Sales, Revenue, and Profit.
+- Reordered columns to place categorical data first and numerical data last for easier analysis.
 - Validated data accuracy by comparing row and column counts before and after cleaning.
 - Loaded the cleaned and transformed data into Excel for analysis.
 - Built Pivot Tables to summarize sales performance and key metrics.
