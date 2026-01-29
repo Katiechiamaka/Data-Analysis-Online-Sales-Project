@@ -3,8 +3,18 @@
 <img width="600" height="639" alt= "Online sales project Dashboard" src="https://github.com/user-attachments/assets/f2bcac02-3d90-461f-a4f8-d97354397d4c"/>
 
 
-## Project Objective
+## Project Overview
 This project focuses on analyzing online retail sales transactions from 2020 to 2025 to uncover trends across regions, products, and time, providing insights into performance patterns that support strategic decision-making. The project uses Excel Power Query to ensure accuracy and consistency across multiple years. Standardized data formats and calculated metrics such as Gross Sales, Revenue, and Profit are used to identify year-over-year trends, evaluate sales performance over time, and support strategic, data-driven business decisions.
+
+
+## Project Objectives
+-Identify sales trends across regions, products, and time
+
+-Detect top-performing products and underperforming areas
+
+-Create effective visualizations and dashboards
+
+-Communicate findings with clarity, accuracy, and business relevance
 
 ## Dataset Used
 - <a href ="https://github.com/Katiechiamaka/Data-Analysis-Online-Sales-Project/blob/main/online_sales_dataset.csv"> Dataset</a>
